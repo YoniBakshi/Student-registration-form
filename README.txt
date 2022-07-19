@@ -1,8 +1,4 @@
 ============================================================================
-  Full-Names : Yehonatan Bakshi & Hila Saadon
-  Written by = Yehonatan Bakshi  ,  id = 308077668  ,  login = yehonatanba
-  Written by = Hila Saadon 	      ,  id = 208405217  ,  login = hilasaa
-============================================================================
 Description : 
 This program is a console form (terminal) to sign-in by a student for a study year.
 Student need to fill personal information about himself/herself.
@@ -89,17 +85,5 @@ MinValidator.cpp		->  מחלקה תבניתית יורשת מ-FieldValidator א�
 NoDigitValidator.cpp	-> מחלקה תבניתית יורשת מ-FieldValidator אחראית על בדיקת קלט כדי שלא יכיל ספרות (עבור הזנת שדה "שם")
 RangeValidator.cpp	-> מחלקה תבניתית יורשת מ-FieldValidator בודקת האם הקלט נמצא בין 2 ערכים מסויימים שנקבעו
 
-==============================================================================
-
-Data Structure :
-
-==============================================================================
-
-Algorithms :
-
-==============================================================================
-
-Known Bugs :
-
-==============================================================================
-
+============================================================================
+Full-Names : Yehonatan Bakshi & Hila Saadon
